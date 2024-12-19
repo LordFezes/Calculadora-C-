@@ -1,0 +1,15 @@
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\bin\Debug\net9.0\ExercícioCalculadora.exe
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\bin\Debug\net9.0\ExercícioCalculadora.deps.json
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\bin\Debug\net9.0\ExercícioCalculadora.runtimeconfig.json
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\bin\Debug\net9.0\ExercícioCalculadora.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\bin\Debug\net9.0\ExercícioCalculadora.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.AssemblyInfoInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.AssemblyInfo.cs
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.sourcelink.json
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\refint\ExercícioCalculadora.dll
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.pdb
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ExercícioCalculadora.genruntimeconfig.cache
+C:\Users\Walter Zavala\Documents\TreinoC#\exercíciocalculadora\obj\Debug\net9.0\ref\ExercícioCalculadora.dll
